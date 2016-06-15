@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7d993da-06b9-4c8d-b2cd-0cb80debcb2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fake/src/StackToQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fake/src/minInArray.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fake/src/minInArray.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="helloworld.iws" />
@@ -33,7 +31,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
               <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,29 +53,19 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1250">
               <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StackToQueue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fake/src/StackToQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
               <folding>
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#3654#3655#0" expanded="false" />
+                <element signature="e#3691#3692#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="minInArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fake/src/minInArray.java">
+      <file leaf-file-name="StackToQueue.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fake/src/StackToQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            <state relative-caret-position="125">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -184,8 +174,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="385" />
-    <option name="y" value="52" />
+    <option name="x" value="397" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -244,6 +233,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="fake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helloworld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helloworld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fake" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -790,12 +797,20 @@
       <workItem from="1465694778420" duration="5549000" />
       <workItem from="1465783004028" duration="5395000" />
       <workItem from="1465876529206" duration="5684000" />
-      <workItem from="1465957546560" duration="615000" />
+      <workItem from="1465957546560" duration="907000" />
     </task>
+    <task id="LOCAL-00001" summary="start for work">
+      <created>1465987190986</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1465987190986</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70705000" />
+    <option name="totallyTimeSpent" value="70997000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -807,7 +822,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="385" y="52" width="1400" height="1000" extended-state="0" />
+    <frame x="397" y="0" width="1400" height="1000" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -847,6 +862,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start for work" />
+    <option name="LAST_COMMIT_MESSAGE" value="start for work" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1158,7 +1177,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1174,25 +1195,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1250">
           <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
-          <folding />
+          <folding>
+            <element signature="e#3654#3655#0" expanded="false" />
+            <element signature="e#3691#3692#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fake/src/StackToQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="125">
           <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fake/src/minInArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
           <folding />
         </state>
       </provider>
