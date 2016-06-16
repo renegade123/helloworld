@@ -51,7 +51,7 @@ public class MinInArray {
         int[] array5 = {1, 2, 3, 4, 5};
         System.out.println(min(array5));
         // 数组中只有一个数字
-        int[] array6 = {2};
+        int[] array6 = {1,2};
         System.out.println(min(array6));
         // 数组中数字都相同
         int[] array7 = {1, 1, 1, 1, 1, 1, 1};
